@@ -12,5 +12,3 @@ CREATE TABLE IF NOT EXISTS todos (
     user_id BIGINT NOT NULL
 );
 --rollback DROP TABLE todos;
-
-
